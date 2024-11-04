@@ -31,7 +31,8 @@ ubuntu:latest
 ubuntu:24.10
 ubuntu:22.04
 ubuntu:22.04
-centos7.9.2009centos:latest
+centos7.9.2009
+centos:latest
 centos:centos8.4.2105
 centos:7.8.2003
 centos:centos7.6.1810
@@ -46,7 +47,8 @@ evil0ctal/douyin_tiktok_download_api:latest
 --platform=linux/arm64 nginx:latest
 --platform=linux/arm64 nginx:1.26.2
 --platform=linux/arm64 mysql:5.7.44
---platform=linux/arm64 mysql:8.4.3mysql:8.0.40
+--platform=linux/arm64 mysql:8.4.3
+--platform=linux/arm64 mysql:8.0.40
 --platform=linux/arm64 mysql:latest
 --platform=linux/arm64 redis:latest
 --platform=linux/arm64 redis:7.4.1
@@ -65,7 +67,8 @@ evil0ctal/douyin_tiktok_download_api:latest
 --platform=linux/arm64 ubuntu:24.10
 --platform=linux/arm64 ubuntu:22.04
 --platform=linux/arm64 ubuntu:22.04
---platform=linux/arm64 centos7.9.2009centos:latest
+--platform=linux/arm64 centos7.9.2009
+--platform=linux/arm64 centos:latest
 --platform=linux/arm64 centos:centos8.4.2105
 --platform=linux/arm64 centos:7.8.2003
 --platform=linux/arm64 centos:centos7.6.1810
