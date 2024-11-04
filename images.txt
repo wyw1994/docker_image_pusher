@@ -34,6 +34,7 @@ centos7.9.2009centos:latest
 centos:centos8.4.2105
 centos:7.8.2003
 centos:centos7.6.1810
+evil0ctal/douyin_tiktok_download_api:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 jellyfin/jellyfin
