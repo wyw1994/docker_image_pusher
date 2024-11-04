@@ -31,11 +31,11 @@ ubuntu:latest
 ubuntu:24.10
 ubuntu:22.04
 ubuntu:22.04
-centos7.9.2009
+centos7.9
 centos:latest
-centos:centos8.4.2105
-centos:7.8.2003
-centos:centos7.6.1810
+centos:centos8.4
+centos:7.8
+centos:centos7.6
 evil0ctal/douyin_tiktok_download_api:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -67,8 +67,8 @@ evil0ctal/douyin_tiktok_download_api:latest
 --platform=linux/arm64 ubuntu:24.10
 --platform=linux/arm64 ubuntu:22.04
 --platform=linux/arm64 ubuntu:22.04
---platform=linux/arm64 centos7.9.2009
+--platform=linux/arm64 centos7.9
 --platform=linux/arm64 centos:latest
---platform=linux/arm64 centos:centos8.4.2105
---platform=linux/arm64 centos:7.8.2003
---platform=linux/arm64 centos:centos7.6.1810
+--platform=linux/arm64 centos:centos8.4
+--platform=linux/arm64 centos:7.8
+--platform=linux/arm64 centos:centos7.6
