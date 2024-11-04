@@ -11,7 +11,8 @@ php:latest
 nginx:latest
 nginx:1.26.2
 mysql:5.7.44
-mysql:8.4.3mysql:8.0.40
+mysql:8.4.3
+mysql:8.0.40
 mysql:latest
 redis:latest
 redis:7.4.1
