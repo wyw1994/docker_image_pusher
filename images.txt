@@ -5,5 +5,6 @@
 guiji2025/fish-speech-ziming
 guiji2025/fun-asr
 guiji2025/heygem.ai
+bluebbc/demucs:4
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
